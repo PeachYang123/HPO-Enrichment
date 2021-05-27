@@ -1,2 +1,2 @@
-# YangChi
-HPO Enrichment
+# HPO Enrichment
+HPO Enrichment of SCZ
