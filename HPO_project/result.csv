@@ -1,0 +1,198 @@
+"","HPO_ID","Term_Name","GeneRatio","pvalues","Count"
+"6912","HP:0004746","Glomerular subendothelial electron-dense deposits","1/7",0.00153677277716813,1
+"6913","HP:0005389","Depletion of components of the alternative complement pathway","1/7",0.00153677277716813,1
+"7649","HP:0025348","Abnormality of the corneal limbus","1/7",0.00153677277716813,1
+"7650","HP:0025612","Corneal astigmatism","1/7",0.00153677277716813,1
+"7651","HP:0500070","Conjunctival dermolipoma","1/7",0.00153677277716813,1
+"7652","HP:0007873","Abnormally prominent line of Schwalbe","1/7",0.00153677277716813,1
+"8126","HP:0030044","Flexion contracture of digit","1/7",0.00153677277716813,1
+"4042","HP:0007730","Iris hypopigmentation","2/7",0.00211766600463281,2
+"4966","HP:0011500","Polycoria","1/7",0.00307152082076911,1
+"7768","HP:0008718","Unilateral renal dysplasia","1/7",0.00307152082076911,1
+"1801","HP:0002861","Melanoma","2/7",0.00354824218746264,2
+"3228","HP:0000502","Abnormal conjunctiva morphology","1/7",0.00460424635431955,1
+"6214","HP:0031057","Skin fissure","1/7",0.00460424635431955,1
+"7056","HP:0010945","Fetal pyelectasis","1/7",0.00460424635431955,1
+"6683","HP:0005369","Decreased serum complement factor H","1/7",0.00613495159938093,1
+"6910","HP:0011419","Placental abruption","1/7",0.00613495159938093,1
+"7292","HP:0200098","Absent skin pigmentation","1/7",0.00613495159938093,1
+"3785","HP:0005416","Decreased serum complement factor B","1/7",0.00766363877556298,1
+"5416","HP:0011493","Central opacification of the cornea","1/7",0.00766363877556298,1
+"3626","HP:0030834","Shoulder pain","1/7",0.00919031010052374,1
+"4657","HP:0031159","Thinning of Descemet membrane","1/7",0.00919031010052374,1
+"6895","HP:0025547","Decreased mean corpuscular hemoglobin concentration","1/7",0.00919031010052374,1
+"6911","HP:0008071","Maternal hypertension","1/7",0.00919031010052374,1
+"1478","HP:0100515","Pollakisuria","1/7",0.0107149677899712,1
+"2983","HP:0010677","Enuresis nocturna","1/7",0.0107149677899712,1
+"3997","HP:0005356","Decreased serum complement factor I","1/7",0.0107149677899712,1
+"4581","HP:0007990","Hypoplastic iris stroma","1/7",0.0107149677899712,1
+"5365","HP:0410019","Epigastric pain","1/7",0.0107149677899712,1
+"1534","HP:0000989","Pruritus","2/7",0.0110160122022409,2
+"2835","HP:0004722","Thickened glomerular basement membrane","1/7",0.0122376140576648,1
+"4470","HP:0010957","Congenital posterior urethral valve","1/7",0.0122376140576648,1
+"3105","HP:0003641","Hemoglobinuria","1/7",0.0137582511154163,1
+"4001","HP:0000587","Abnormality of the optic nerve","1/7",0.0137582511154163,1
+"6516","HP:0100601","Eclampsia","1/7",0.0137582511154163,1
+"2180","HP:0002289","Alopecia universalis","1/7",0.0152768811730914,1
+"4125","HP:0001981","Schistocytosis","1/7",0.0152768811730914,1
+"5319","HP:0000168","Abnormality of the gingiva","1/7",0.0152768811730914,1
+"4011","HP:0005421","Decreased serum complement C3","1/7",0.0167935064386114,1
+"4650","HP:0011483","Anterior synechiae of the anterior chamber","1/7",0.0167935064386114,1
+"6414","HP:0012330","Pyelonephritis","1/7",0.0167935064386114,1
+"1865","HP:0000523","Subcapsular cataract","1/7",0.0183081291179535,1
+"2081","HP:0100519","Anuria","1/7",0.0183081291179535,1
+"3507","HP:0007410","Palmoplantar hyperhidrosis","1/7",0.0183081291179535,1
+"4867","HP:0000481","Abnormal cornea morphology","1/7",0.0183081291179535,1
+"5343","HP:0000558","Rieger anomaly","1/7",0.0183081291179535,1
+"5352","HP:0011510","Drusen","1/7",0.0183081291179535,1
+"6061","HP:0031013","Ankylosis","1/7",0.0183081291179535,1
+"1299","HP:0000982","Palmoplantar keratoderma","2/7",0.0192762034082646,2
+"2833","HP:0005575","Hemolytic-uremic syndrome","1/7",0.0198207514151525,1
+"3571","HP:0004324","Increased body weight","1/7",0.0198207514151525,1
+"3788","HP:0001937","Microangiopathic hemolytic anemia","1/7",0.0198207514151525,1
+"3820","HP:0100825","Cheilitis","1/7",0.0198207514151525,1
+"5387","HP:0007430","Generalized edema","1/7",0.0228400036695569,1
+"788","HP:0004298","Abnormality of the abdominal wall","1/7",0.0243466380251324,1
+"2056","HP:0000593","Abnormal anterior chamber morphology","1/7",0.0243466380251324,1
+"2801","HP:0003138","Increased blood urea nitrogen","1/7",0.0258512807953072,1
+"3093","HP:0007894","Hypopigmentation of the fundus","1/7",0.0258512807953072,1
+"180","HP:0000668","Hypodontia","2/7",0.0271369308764303,2
+"418","HP:0100598","Pulmonary edema","1/7",0.0273539341744241,1
+"2107","HP:0100518","Dysuria","1/7",0.0273539341744241,1
+"2946","HP:0001022","Albinism","1/7",0.0288546003548914,1
+"3438","HP:0000659","Peters anomaly","1/7",0.0288546003548914,1
+"3552","HP:0002224","Woolly hair","1/7",0.0288546003548914,1
+"5545","HP:0006739","Squamous cell carcinoma of the skin","1/7",0.0303532815271831,1
+"2691","HP:0000157","Abnormality of the tongue","1/7",0.0318499798798423,1
+"2700","HP:0001107","Ocular albinism","1/7",0.0318499798798423,1
+"4627","HP:0005521","Disseminated intravascular coagulation","1/7",0.0318499798798423,1
+"4967","HP:0007676","Hypoplasia of the iris","1/7",0.0318499798798423,1
+"5604","HP:0011364","White hair","1/7",0.0318499798798423,1
+"4311","HP:0001036","Parakeratosis","1/7",0.0333446975994812,1
+"1315","HP:0000016","Urinary retention","1/7",0.0348374368707811,1
+"2778","HP:0001810","Dystrophic toenail","1/7",0.0348374368707811,1
+"3383","HP:0100602","Preeclampsia","1/7",0.0348374368707811,1
+"4004","HP:0001058","Poor wound healing","1/7",0.0348374368707811,1
+"3292","HP:0000970","Anhidrosis","1/7",0.036328199876497,1
+"2041","HP:0005105","Abnormal nasal morphology","1/7",0.0393038058125593,1
+"2766","HP:0007750","Hypoplasia of the fovea","1/7",0.0422715328311841,1
+"3307","HP:0008661","Urethral stenosis","1/7",0.0422715328311841,1
+"3308","HP:0000635","Blue irides","1/7",0.0437524471828923,1
+"521","HP:0002025","Anal stenosis","1/7",0.0467083884271577,1
+"1907","HP:0010982","Polygenic inheritance","1/7",0.0467083884271577,1
+"1977","HP:0000972","Palmoplantar hyperkeratosis","1/7",0.0467083884271577,1
+"2191","HP:0003259","Elevated serum creatinine","1/7",0.0467083884271577,1
+"2263","HP:0100526","Neoplasm of the lung","1/7",0.0467083884271577,1
+"1331","HP:0003077","Hyperlipidemia","1/7",0.0511276141563014,1
+"2147","HP:0008151","Prolonged prothrombin time","1/7",0.0511276141563014,1
+"2214","HP:0025435","Increased lactate dehydrogenase level","1/7",0.0511276141563014,1
+"2753","HP:0008069","Neoplasm of the skin","1/7",0.0511276141563014,1
+"2834","HP:0001919","Acute kidney injury","1/7",0.0511276141563014,1
+"1037","HP:0012622","Chronic kidney disease","1/7",0.0525967817521663,1
+"2141","HP:0011900","Hypofibrinogenemia","1/7",0.0540639991255591,1
+"4159","HP:0000485","Megalocornea","1/7",0.0555292684342824,1
+"2862","HP:0000336","Prominent supraorbital ridges","1/7",0.0569925918342292,1
+"600","HP:0000649","Abnormality of visual evoked potentials","1/7",0.0584539714793832,1
+"1804","HP:0001480","Freckling","1/7",0.0584539714793832,1
+"1947","HP:0025092","Epidermal acanthosis","1/7",0.0584539714793832,1
+"2590","HP:0001923","Reticulocytosis","1/7",0.05991340952182,1
+"3086","HP:0005599","Hypopigmentation of hair","1/7",0.05991340952182,1
+"273","HP:0001087","Developmental glaucoma","1/7",0.0613709081117085,1
+"52","HP:0000822","Hypertension","2/7",0.0627467480222937,2
+"1532","HP:0001072","Thickened skin","1/7",0.062826469397313,1
+"2324","HP:0000526","Aniridia","1/7",0.0657317886392049,1
+"456","HP:0000627","Posterior embryotoxon","1/7",0.0686293843955472,1
+"2741","HP:0002671","Basal cell carcinoma","1/7",0.070075291317089,1
+"2900","HP:0001010","Hypopigmentation of the skin","1/7",0.070075291317089,1
+"1044","HP:0000979","Purpura","1/7",0.0729613339312061,1
+"1247","HP:0001582","Redundant skin","1/7",0.0729613339312061,1
+"2194","HP:0008053","Aplasia/Hypoplasia of the iris","1/7",0.0758396957969726,1
+"570","HP:0000608","Macular degeneration","1/7",0.0772760017759738,1
+"496","HP:0002357","Dysphasia","1/7",0.0801428744631562,1
+"1632","HP:0002202","Pleural effusion","1/7",0.0801428744631562,1
+"1766","HP:0003418","Back pain","1/7",0.0801428744631562,1
+"566","HP:0000995","Melanocytic nevus","1/7",0.083002108949791,1
+"1052","HP:0001034","Hypermelanotic macule","1/7",0.0844288671710295,1
+"1413","HP:0001342","Cerebral hemorrhage","1/7",0.0886977311561838,1
+"2755","HP:0002797","Osteolysis","1/7",0.0915341527179592,1
+"421","HP:0002615","Hypotension","1/7",0.0957745956078034,1
+"2182","HP:0000864","Abnormality of the hypothalamus-pituitary axis","1/7",0.098592122455041,1
+"709","HP:0000577","Exotropia","1/7",0.0999980616579853,1
+"1192","HP:0100578","Lipoatrophy","1/7",0.10280430210901,1
+"2811","HP:0000529","Progressive visual loss","1/7",0.105603039247052,1
+"1300","HP:0001874","Abnormality of neutrophils","1/7",0.109787112822362,1
+"2336","HP:0002018","Nausea","1/7",0.111178070458577,1
+"677","HP:0001259","Coma","1/7",0.112567164789184,1
+"704","HP:0002718","Recurrent bacterial infections","1/7",0.118104950637879,1
+"1434","HP:0000646","Amblyopia","1/7",0.12223882707528,1
+"217","HP:0001231","Abnormal fingernail morphology","1/7",0.127724817954411,1
+"1550","HP:0000962","Hyperkeratosis","1/7",0.137254600276864,1
+"1327","HP:0003774","Stage 5 chronic kidney disease","1/7",0.138608684984949,1
+"1620","HP:0001269","Hemiparesis","1/7",0.138608684984949,1
+"2206","HP:0200042","Skin ulcer","1/7",0.145351818662005,1
+"1754","HP:0000691","Microdontia","1/7",0.156046721925418,1
+"931","HP:0000824","Decreased response to growth hormone stimuation test","1/7",0.157375483271914,1
+"2111","HP:0000010","Recurrent urinary tract infections","1/7",0.158702451014793,1
+"371","HP:0003457","EMG abnormality","1/7",0.16002762717206,1
+"2417","HP:0010783","Erythema","1/7",0.16002762717206,1
+"1742","HP:0000232","Everted lower lip vermilion","1/7",0.161351013759905,1
+"888","HP:0000327","Hypoplasia of the maxilla","1/7",0.170564780909916,1
+"469","HP:0003621","Juvenile onset","1/7",0.173181294199966,1
+"965","HP:0000482","Microcornea","1/7",0.179691645952798,1
+"39","HP:0002023","Anal atresia","1/7",0.18228345591137,1
+"1020","HP:0000790","Hematuria","1/7",0.18228345591137,1
+"527","HP:0001562","Oligohydramnios","1/7",0.192580631368685,1
+"518","HP:0002315","Headache","1/7",0.193859928693361,1
+"794","HP:0000506","Telecanthus","1/7",0.197687401842838,1
+"843","HP:0000164","Abnormality of the dentition","1/7",0.198959759837197,1
+"112","HP:0000958","Dry skin","1/7",0.202766462125428,1
+"762","HP:0008897","Postnatal growth retardation","1/7",0.205295640154406,1
+"621","HP:0000670","Carious teeth","1/7",0.210333370158073,1
+"107","HP:0000076","Vesicoureteral reflux","1/7",0.212841953315821,1
+"789","HP:0000483","Astigmatism","1/7",0.212841953315821,1
+"728","HP:0001644","Dilated cardiomyopathy","1/7",0.215343702652376,1
+"1663","HP:0008070","Sparse hair","1/7",0.21783863368856,1
+"829","HP:0000020","Urinary incontinence","1/7",0.226517421620209,1
+"585","HP:0007663","Reduced visual acuity","1/7",0.231439568179354,1
+"80","HP:0030680","Abnormality of cardiovascular system morphology","1/7",0.238772440466091,1
+"1018","HP:0000093","Proteinuria","1/7",0.239988736498215,1
+"737","HP:0001596","Alopecia","1/7",0.241203366371391,1
+"262","HP:0001254","Lethargy","1/7",0.259224164926501,1
+"487","HP:0011220","Prominent forehead","1/7",0.261598988639534,1
+"987","HP:0000322","Short philtrum","1/7",0.261598988639534,1
+"44","HP:0000126","Hydronephrosis","1/7",0.274544218737571,1
+"14","HP:0000006","Autosomal dominant inheritance","4/7",0.275765937457794,4
+"271","HP:0000316","Hypertelorism","2/7",0.275871002162048,2
+"361","HP:0000278","Retrognathia","1/7",0.287294432344904,1
+"158","HP:0000407","Sensorineural hearing impairment","2/7",0.288762291361783,2
+"571","HP:0007703","Abnormality of retinal pigmentation","1/7",0.295307791173715,1
+"674","HP:0002014","Diarrhea","1/7",0.297583087441344,1
+"398","HP:0002027","Abdominal pain","1/7",0.298718372222667,1
+"671","HP:0002910","Elevated hepatic transaminase","1/7",0.299852083861106,1
+"579","HP:0000613","Photophobia","1/7",0.305497108445655,1
+"655","HP:0003198","Myopathy","1/7",0.305497108445655,1
+"654","HP:0001510","Growth delay","1/7",0.309984996425656,1
+"658","HP:0003236","Elevated serum creatine kinase","1/7",0.312219602911209,1
+"814","HP:0000219","Thin upper lip vermilion","1/7",0.318886245013353,1
+"611","HP:0001945","Fever","1/7",0.319991949161059,1
+"159","HP:0000486","Strabismus","2/7",0.326393040831693,2
+"16","HP:0001425","Heterogeneous","1/7",0.335311032112675,1
+"300","HP:0011800","Midface retrusion","1/7",0.335311032112675,1
+"670","HP:0002013","Vomiting","1/7",0.341785226319937,1
+"582","HP:0000501","Glaucoma","1/7",0.350333353522234,1
+"260","HP:0001873","Thrombocytopenia","1/7",0.354571612296416,1
+"149","HP:0100543","Cognitive impairment","1/7",0.359836090345443,1
+"17","HP:0000047","Hypospadias","1/7",0.375409291861249,1
+"685","HP:0001999","Abnormal facial shape","1/7",0.382564920017298,1
+"304","HP:0003828","Variable expressivity","1/7",0.383581393573244,1
+"54","HP:0000639","Nystagmus","2/7",0.393534022942515,2
+"614","HP:0012378","Fatigue","1/7",0.394668284094361,1
+"308","HP:0003577","Congenital onset","1/7",0.401634216024194,1
+"817","HP:0000545","Myopia","1/7",0.402623717674993,1
+"376","HP:0000505","Visual impairment","1/7",0.445724217920586,1
+"264","HP:0000431","Wide nasal bridge","1/7",0.55790067531998,1
+"89","HP:0005280","Depressed nasal bridge","1/7",0.560187391514111,1
+"706","HP:0003593","Infantile onset","1/7",0.565483672269075,1
+"65","HP:0000365","Hearing impairment","1/7",0.621570110608615,1
+"6","HP:0000007","Autosomal recessive inheritance","4/7",0.687051134784615,4
+"2","HP:0001250","Seizure","2/7",0.705197154273327,2
